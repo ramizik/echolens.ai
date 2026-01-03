@@ -1,8 +1,8 @@
-# EchoLens.AI
+# EchoLens AI
 
-![EchoLens.AI Logo](https://via.placeholder.com/800x200?text=EchoLens.AI)
+YouTube Demo:
 
-## 🔊 Emotion & Sound Translation for Deaf/HoH Users
+[![EchoLens AI](https://img.youtube.com/vi/HJFwOpEGalA/0.jpg)](https://www.youtube.com/watch?v=HJFwOpEGalA)
 
 EchoLens.AI is an innovative application designed to assist deaf and hard-of-hearing individuals by translating audio environments into accessible information. The system combines audio processing, emotion detection, and spatial awareness to provide a comprehensive understanding of the user's surroundings.
 
